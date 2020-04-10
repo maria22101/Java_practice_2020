@@ -1,2 +1,4 @@
 first line in feature_2 new file
  Lets move on
+either what you think: it is possible or not
+ you are right

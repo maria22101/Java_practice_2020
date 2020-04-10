@@ -1,2 +1,7 @@
+Master:
+The ship glides gently on the waves
+As day turns into night
+
+Feature_2:
 One thousand burning arrows
 Fill the starlit sky
